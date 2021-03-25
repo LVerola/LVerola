@@ -37,9 +37,9 @@ const aboutMe = {
 
 <a href="mailto:luisgabriel.verola@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shivammalpani111@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
-</p>
-
 <img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
+
+</p>
 
 </br></br>
 <h2 align="center">💻 Some stats 💻</h2>
