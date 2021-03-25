@@ -35,7 +35,7 @@ const aboutMe = {
 
 <a href="https://www.instagram.com/luis_verola/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Luis_Verola-black?style=flat-square&logo=instagram"></a>
 
-<a href="mailto:luisgabriel.verola@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shivammalpani111@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:luisgabriel.verola@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-luisgabriel.verola@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 </p>
 
