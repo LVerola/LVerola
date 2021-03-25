@@ -37,8 +37,6 @@ const aboutMe = {
 
 <a href="mailto:luisgabriel.verola@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shivammalpani111@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
-<img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
-
 </p>
 
 </br></br>
@@ -51,6 +49,8 @@ const aboutMe = {
 <br/>
 
 <br/>
+
+<img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lverola&show_icons=true&theme=synthwave)
 
