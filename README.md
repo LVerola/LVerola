@@ -23,7 +23,7 @@ const aboutMe = {
 };
 ```
 </br></br>
-<h3> 🤝🏻 Connect with Me </h3>
+<h2 align="center"> 🤝🏻 Connect with Me </h2>
 
 <br>
 
@@ -40,7 +40,7 @@ const aboutMe = {
 </p>
 
 </br></br>
-<h2>💻 Some stats 💻</h2>
+<h2 align="center">💻 Some stats 💻</h2>
 
 <br/><br/>
 
