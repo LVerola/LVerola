@@ -7,19 +7,23 @@
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [Javascript, Typescript, HTML, CSS ],
+   code: [Javascript, Typescript, HTML, CSS, C#, Python, GoLang],
    technologies: {
       frontEnd: {
-         js: ["React"],
-         css: ["Bootstrap", "Material Design", "Ant Design"]
+         js: ["React", "ReactNative", "Expo", "Vite"],
+         css: ["Bootstrap", "Material Design", "Ant Design", "TailwindCSS"]
       },
       backEnd: {
          js: ["Node", "Express"],
+         csharp: [".NET"],
+         go: ["GoLang"]
       },
-      databases: ["MongoDB", "mySQL", "Postgress"]
+      databases: ["MongoDB", "mySQL", "Postgress"],
+      cloud: ["Azure", "GoogleCloud", "AWS", "DigitalOcean"],
+      gameDev: ["Unity"]
    },
-   currentOccupation: ["Analysis and Systems Development student, Working on BIPlan dev"],
-   challenge: "Release my own game using Unity or Unreal.",
+   currentOccupation: currentOccupation: ["Fullstack developer on Zapform"],
+   challenge: "Always seeking to evolve and acquire the best knowledge to create impactful solutions.",
 };
 ```
 </br></br>
@@ -27,13 +31,13 @@ const aboutMe = {
 
 <br>
 
-
-
 <p align="center">
 
-<a href="https://www.facebook.com/luis.gabriel.796"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-Luis.Gabriel.796-black?style=flat-square&logo=facebook"></a>
+<a href="https://www.linkedin.com/in/lverola"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-LVerola-blue?style=flat-square&logo=linkedin"></a>
 
 <a href="https://www.instagram.com/luis_verola/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Luis_Verola-black?style=flat-square&logo=instagram"></a>
+
+<a href="https://www.facebook.com/luis.gabriel.796"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-Luis.Gabriel.796-black?style=flat-square&logo=facebook"></a>
 
 <a href="mailto:luisgabriel.verola@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-luisgabriel.verola@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
