@@ -23,7 +23,7 @@ const aboutMe = {
       gameDev: ["Unity"]
    },
    currentOccupation: ["Fullstack developer on Zapform"],
-   challenge: "Always seeking to evolve and acquire the best knowledge to create impactful solutions.",
+   challenge: "On a journey to keep learning, improving, and building cool things that matter.",
 };
 ```
 </br></br>
