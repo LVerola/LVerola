@@ -22,7 +22,7 @@ const aboutMe = {
       cloud: ["Azure", "GoogleCloud", "AWS", "DigitalOcean"],
       gameDev: ["Unity"]
    },
-   currentOccupation: currentOccupation: ["Fullstack developer on Zapform"],
+   currentOccupation: ["Fullstack developer on Zapform"],
    challenge: "Always seeking to evolve and acquire the best knowledge to create impactful solutions.",
 };
 ```
